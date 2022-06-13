@@ -1,6 +1,4 @@
 # Netsparker-Standard-6.3.033782
-Netsparker Standard 6.2.1.33642 - 14 December 2021
+Netsparker Standard 6.3.033782 - 23 December 2021
 
-here: https://satoshidisk.com/pay/CFedcD
-
-VirusTotal - https://www.virustotal.com/gui/file/e94ff1dd74e96d97754e155733d2dd789feb83fed2e56d087cbfb273fa5d6c9c
+VirusTotal - https://www.virustotal.com/gui/file/03a371bf69b325311664478c62e86d7e2da6ad19d8d2cad74fd3685a2ffc58a8
